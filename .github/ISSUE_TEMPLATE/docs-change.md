@@ -1,6 +1,6 @@
 ---
 name: Docs Change
-about: Suggest a change to Bolt documentation.
+about: Suggest a change to our documentation.
 title: ''
 labels: 'Docs'
 assignees: ''
