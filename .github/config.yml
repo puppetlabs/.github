@@ -1,9 +1,13 @@
 newIssueWelcomeComment: >
-  Thanks for opening your first issue here! Be sure to follow the issue template!
+  Thanks for opening your first issue here! We will follow up as soon as we can.
 
-newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
-
+newPRWelcomeComment: |
+  Hi! 💖 Thanks for your contribution 🎉🥳
+  
+  We'll get it reviewed as soon as possible. If you'd like to chat with the developers, the #puppet-dev channel on [Slack](https://slack.puppet.com) would probably be a great place to start. Make sure that your commit messages fit our [contribution standards](https://github.com/puppetlabs/.github/blob/master/CONTRIBUTING.md)to make the code review go quickly.
+  
+  If this is your first contribution to our repositories, then we'd love to send you a small welcome gift 🎁. Drop us a line at community@puppet.com and let us know where to send it! (/cc @puppetlabs/community)
+  
 firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+  Congrats on merging your first pull request in this repository! 🏅
 
