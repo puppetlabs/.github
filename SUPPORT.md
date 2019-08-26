@@ -35,7 +35,7 @@ You'll even find many Puppet engineers participating in conversations there.
 Many Puppet modules in this namespace were created by individuals solving a specific problem.
 The Forge Modules team will maintain and correct issues with modules in our namespace, but
 does not offer specific support for most (see below for specific supported modules). As above,
-if you have a support contract, then the Support team will attempt best-effor assistance.
+if you have a support contract, then the Support team will attempt best-effort assistance.
 
 The [Puppet Community Slack](https://slack.puppet.com) is a great way to get peer-to-peer help
 from people using these modules. You'll also find that the Forge Modules team is often available
