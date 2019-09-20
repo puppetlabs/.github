@@ -20,7 +20,7 @@ bug fixes, an authenticated support portal and knowledge base.
 
 Our Open Source projects have no explicit support policy. If you have a support contract and
 you're using an Open Source project along with your supported product, then you'll receive
-best-effort assistance if you make support requests.
+best-effort assistance if you make a support request.
 
 You are invited to file issues on the project, or to contribute pull requests correcting the
 problem you're running into. That process will vary depending on the project. If GitHub issues
@@ -33,9 +33,9 @@ You'll even find many Puppet engineers participating in conversations there.
 ## Modules
 
 Many Puppet modules in this namespace were created by individuals solving a specific problem.
-The Forge Modules team will maintain and correct issues with modules in our namespace, but
-does not offer specific support for most (see below for specific supported modules). As above,
-if you have a support contract, then the Support team will attempt best-effort assistance.
+The Forge Modules team will maintain and correct issues with modules in the Puppet namespace, but
+does not offer specific support for most modules. If you have a support contract, then the 
+Support team will attempt best-effort assistance.
 
 The [Puppet Community Slack](https://slack.puppet.com) is a great way to get peer-to-peer help
 from people using these modules. You'll also find that the Forge Modules team is often available
@@ -44,9 +44,11 @@ for questions in the `#forge-modules` channel.
 
 ### Supported Modules
 
-Puppet Forge modules are pretty great at making your life easier. Puppet Supported modules take
+Puppet Forge modules are meant to make your life easier. Puppet Supported modules take
 it one step further, making sure common services are easy to set up, implement, and manage with
-Puppet Enterprise. See the [support policy](https://forge.puppet.com/supported) on the Forge.
+Puppet Enterprise. Puppet guarantees that each supported module has been tested with Puppet Enterprise,
+is subject to official Puppet Enterprise support, is maintained, and compatible with multiple platforms.
+ See the [support policy](https://forge.puppet.com/supported) on the Forge for more details.
 
 ### Partner Supported Modules
 
