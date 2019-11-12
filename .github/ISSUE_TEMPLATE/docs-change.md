@@ -2,7 +2,7 @@
 name: Docs Change
 about: Suggest a change to our documentation.
 title: ''
-labels: 'Docs'
+labels: Docs, docs
 assignees: ''
 ---
 
