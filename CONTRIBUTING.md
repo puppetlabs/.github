@@ -114,7 +114,7 @@ respectively.
 
 ## Submitting Changes
 
-* Sign the [Contributor License Agreement](http://links.puppet.com/cla).
+* Sign the [Contributor License Agreement](http://cla.puppet.com/).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
 * Update your Jira ticket to mark that you have submitted code and are ready
@@ -159,7 +159,7 @@ ensure the issue has been resolved.
 
 * [Puppet community guidelines](https://puppet.com/community/community-guidelines)
 * [Bug tracker (Jira)](https://tickets.puppetlabs.com)
-* [Contributor License Agreement](http://links.puppet.com/cla)
+* [Contributor License Agreement](http://cla.puppet.com/)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
 * #puppet-dev IRC channel on freenode.org ([Archive](https://botbot.me/freenode/puppet-dev/))
