@@ -114,7 +114,6 @@ respectively.
 
 ## Submitting Changes
 
-* Sign the [Contributor License Agreement](http://cla.puppet.com/).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
     * Sign the CLA when prompted to, or post a comment explaining that your
