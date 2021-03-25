@@ -22,7 +22,7 @@ be added in modules. Exceptions would be things like new cross-OS providers
 and updates to existing core types.
 
 If you are unsure of whether your contribution should be implemented as a
-module or part of Puppet Core, you may visit [#puppet-dev on slack](https://puppetcommunity.slack.com/), or ask on
+module or part of Puppet Core, you may visit [#puppet-dev on slack](https://slack.puppet.com/), or ask on
 the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev) for advice.
 
 ## Getting Started
@@ -117,15 +117,11 @@ respectively.
 * Sign the [Contributor License Agreement](http://cla.puppet.com/).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
+    * Sign the CLA when prompted to, or post a comment explaining that your
+      PR falls under the [trivial patch exemption policy](https://puppet.com/community/trivial-patch-exemption-policy)
 * Update your Jira ticket to mark that you have submitted code and are ready
   for it to be reviewed (Status: Ready for Merge).
   * Include a link to the pull request in the ticket.
-* The core team looks at Pull Requests on a regular basis in a weekly triage
-  meeting that we hold in a public Google Hangout. The hangout is announced in
-  the weekly status updates that are sent to the puppet-dev list. Notes are
-  posted to the [Puppet Community community-triage
-  repo](https://github.com/puppet-community/community-triage/tree/master/core/notes)
-  and include a link to a YouTube recording of the hangout.
 * After feedback has been given we expect responses within two weeks. After two
   weeks we may close the pull request if it isn't showing any activity.
 
@@ -159,9 +155,9 @@ ensure the issue has been resolved.
 
 * [Puppet community guidelines](https://puppet.com/community/community-guidelines)
 * [Bug tracker (Jira)](https://tickets.puppetlabs.com)
-* [Contributor License Agreement](http://cla.puppet.com/)
+* [Contributor License Agreement](https://puppet.com/community/contributor-license-agreement)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
+* [Puppet Community Slack](https://slack.puppet.com)
 * #puppet-dev IRC channel on freenode.org ([Archive](https://botbot.me/freenode/puppet-dev/))
 * [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev)
-* [Community PR Triage notes](https://github.com/puppet-community/community-triage/tree/master/core/notes)
