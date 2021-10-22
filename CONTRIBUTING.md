@@ -116,8 +116,7 @@ respectively.
 
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
-    * Sign the CLA when prompted to, or post a comment explaining that your
-      PR falls under the [trivial patch exemption policy](https://puppet.com/community/trivial-patch-exemption-policy)
+    * Sign the CLA when prompted to via a PR comment.
 * Update your Jira ticket to mark that you have submitted code and are ready
   for it to be reviewed (Status: Ready for Merge).
   * Include a link to the pull request in the ticket.
