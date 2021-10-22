@@ -15,7 +15,7 @@ You can get involved in the [Puppet community](https://puppet.com/community/) by
 - 🦊 https://voxpupuli.org
 - 🎙 https://dev.to/puppet
 
-Don't foreget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
+Don't forget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
 
 ### 🎁 Contributing to the ecosystem
 
