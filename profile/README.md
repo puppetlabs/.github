@@ -25,4 +25,4 @@ Most of our projects will use our standard [contribution guidelines](https://git
 
 ### 💻 Wanna come work with us?
 
-Check out our 📜 [jobs listing](http://puppet.com/jobs) and see what strikes your fancy.
+Check out our 📜 [job listings](http://puppet.com/jobs) and see what strikes your fancy.
