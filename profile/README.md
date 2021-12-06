@@ -1,6 +1,6 @@
 ## Welcome to the Puppet community 👋
 
-![Puppet folk having a grand time at Portland's annual Pride parade.](https://raw.githubusercontent.com/puppetlabs/.github/master/profile/Community-Marquee-1792x768.png)
+![Puppet folk having a grand time at Portland's annual Pride parade.](https://raw.githubusercontent.com/puppetlabs/.github/main/profile/Community-Marquee-1792x768.png)
 
 At Puppet, open source software is in our DNA. From the earliest days of Facter to the latest version of Bolt, we’ve always been firm believers in the power of open source. We have a supportive, active community of thousands of people just like you who are making Puppet better — and making IT a better place to work.
 
@@ -21,7 +21,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 Community contributions are awesome and part of the way that we make sure that our tools continue to solve your problems. We want to keep it as easy as possible to participate and make contributions. There are a few guidelines that we need contributors to follow so that we can have a chance of keeping on top of things, of course!
 
-Most of our projects will use our standard [contribution guidelines](https://github.com/puppetlabs/.github/blob/master/CONTRIBUTING.md), but you should check individual repositories for a more specific guide before submitting a PR.
+Most of our projects will use our standard [contribution guidelines](https://github.com/puppetlabs/.github/blob/main/CONTRIBUTING.md), but you should check individual repositories for a more specific guide before submitting a PR.
 
 ### 💻 Wanna come work with us?
 
