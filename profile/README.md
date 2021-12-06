@@ -1,6 +1,6 @@
 ## Welcome to the Puppet community 👋
 
-![Puppet folk having a grand time at Portland's annual Pride parade.](https://raw.githubusercontent.com/puppetlabs/.github/profile/Community-Marquee-1792x768.png)
+![Puppet folk having a grand time at Portland's annual Pride parade.](https://raw.githubusercontent.com/puppetlabs/.github/master/profile/Community-Marquee-1792x768.png)
 
 At Puppet, open source software is in our DNA. From the earliest days of Facter to the latest version of Bolt, we’ve always been firm believers in the power of open source. We have a supportive, active community of thousands of people just like you who are making Puppet better — and making IT a better place to work.
 
