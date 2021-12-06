@@ -21,7 +21,7 @@ Don't forget that all participation is governed by our [Code of conduct](https:/
 
 Community contributions are awesome and part of the way that we make sure that our tools continue to solve your problems. We want to keep it as easy as possible to participate and make contributions. There are a few guidelines that we need contributors to follow so that we can have a chance of keeping on top of things, of course!
 
-Most of our projects will use our standard [contribution guidelines](https://github.com/puppetlabs/.github/blob/master/CONTRIBUTING.md). but you should check individual repositories for a more specific guide before submitting a PR.
+Most of our projects will use our standard [contribution guidelines](https://github.com/puppetlabs/.github/blob/master/CONTRIBUTING.md), but you should check individual repositories for a more specific guide before submitting a PR.
 
 ### 💻 Wanna come work with us?
 
