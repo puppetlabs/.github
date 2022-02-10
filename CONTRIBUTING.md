@@ -38,12 +38,13 @@ the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev
 ## Making Changes
 
 * Create a topic branch from where you want to base your work.
-  * This is usually the master branch.
+  * For new and active repositories, this is usually the main branch, but for
+    older or less active repos, the default branch may still be named `master`.
   * Only target release branches if you are certain your fix must be on that
     branch.
-  * To quickly create a topic branch based on master, run `git checkout -b
-    fix/master/my_contribution master`. Please avoid working directly on the
-    `master` branch.
+  * To quickly create a topic branch based on the default branch, run `git
+    checkout -b fix/main/my_contribution main` (or `master` for older repos).
+    Please avoid working directly on the default branch.
 * Make commits of logical and atomic units.
 * Check for unnecessary whitespace with `git diff --check` before committing.
 * Make sure your commit messages are in the proper format. If the commit
@@ -65,7 +66,7 @@ the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev
       why this is a problem, and how the patch fixes the problem when applied.
   ```
 * Make sure you have added the necessary tests for your changes.
-* For details on how to run tests, please see [the quickstart guide](https://github.com/puppetlabs/puppet/blob/master/docs/quickstart.md)
+* For details on how to run tests, please see [the quickstart guide](https://github.com/puppetlabs/puppet/blob/main/docs/quickstart.md)
 
 ## Writing Translatable Code
 
