@@ -49,9 +49,8 @@ Notes:
 * People who are committing minor formatting / style infractions will get some
   education, rather than hammering them in the 3 strikes process.
 
-Contact conduct@puppet.com to report abuse or appeal violations. This email list
-goes to Kara Sowles (kara at puppet.com) and Katie Abbott (katie dot abbott at
-puppet.com). In the case of appeals, we know that mistakes happen, and we’ll
+Contact conduct@puppet.com to report abuse or appeal violations to our Community
+Conduct team. In the case of appeals, we know that mistakes happen, and we’ll
 work with you to come up with a fair solution if there has been a
 misunderstanding.
 
