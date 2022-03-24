@@ -128,7 +128,7 @@ respectively.
 
 By running tests in advance and by engaging with peer review for prospective
 changes, your contributions have a high probability of becoming long lived
-parts of the the project. After being merged, the code will run through a
+parts of the project. After being merged, the code will run through a
 series of testing pipelines on a large number of operating system
 environments. These pipelines can reveal incompatibilities that are difficult
 to detect in advance.
