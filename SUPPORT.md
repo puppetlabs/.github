@@ -29,7 +29,6 @@ are not enabled, then you'll need to file tickets in the appropriate [JIRA proje
 The [Puppet Community Slack](https://slack.puppet.com) is a great way to get peer-to-peer help.
 You'll even find many Puppet engineers participating in conversations there.
 
-
 ## Modules
 
 Many Puppet modules in this namespace were created by individuals solving a specific problem.
@@ -40,7 +39,6 @@ Support team will attempt best-effort assistance.
 The [Puppet Community Slack](https://slack.puppet.com) is a great way to get peer-to-peer help
 from people using these modules. You'll also find that the Forge Modules team is often available
 for questions in the `#forge-modules` channel.
-
 
 ### Supported Modules
 
@@ -60,7 +58,6 @@ support contract with the partner vendor.
 With the new Puppet Approved program, finding the right module is even easier. Puppet Approved
 modules are recommended by Puppet for use with Puppet Enterprise and meet our expectations for
 quality and usability. [Learn more](https://forge.puppet.com/approved) on the Forge.
-
 
 ## All other repositories
 
