@@ -14,6 +14,7 @@ You can get involved in the [Puppet community](https://puppet.com/community/) by
 - 🎩 https://forge.puppet.com
 - 🦊 https://voxpupuli.org
 - 🎙 https://dev.to/puppet
+- 🐘 https://fosstodon.org/@puppet
 
 Don't forget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
 
@@ -25,4 +26,4 @@ Most of our projects will use our standard [contribution guidelines](https://git
 
 ### 💻 Wanna come work with us?
 
-Check out our 📜 [job listings](http://puppet.com/jobs) and see what strikes your fancy.
+Check out our 📜 [job listings](https://www.perforce.com/careers) and see what strikes your fancy.
