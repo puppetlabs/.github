@@ -27,33 +27,28 @@ the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev
 
 ## Getting Started
 
-* Make sure you have a [Jira account](https://tickets.puppetlabs.com).
 * Make sure you have a [GitHub account](https://github.com/signup/free).
-* Submit a Jira ticket for your issue if one does not already exist.
+* (Optional) Submit a GitHub Issue if one does not already exist.
   * Clearly describe the issue including steps to reproduce when it is a bug.
   * Make sure you fill in the earliest version that you know has the issue.
-  * A ticket is not necessary for [trivial changes](#making-trivial-changes) like a small typo fix.
 * Fork the repository on GitHub.
 
 ## Making Changes
 
 * Create a topic branch from where you want to base your work.
-  * For new and active repositories, this is usually the main branch, but for
+  * For new and active repositories, this is usually the `main` branch, but for
     older or less active repos, the default branch may still be named `master`.
-  * Only target release branches if you are certain your fix must be on that
-    branch.
+  * Only target branches other than the default if you are certain your fix must
+    be on that branch.
   * To quickly create a topic branch based on the default branch, run `git
     checkout -b fix/main/my_contribution main` (or `master` for older repos).
     Please avoid working directly on the default branch.
 * Make commits of logical and atomic units.
 * Check for unnecessary whitespace with `git diff --check` before committing.
-* Make sure your commit messages are in the proper format. If the commit
-  addresses an issue filed in the
-  [Puppet Jira project](https://tickets.puppetlabs.com/browse/PUP), start
-  the first line of the commit with the issue number in parentheses.
+* Make sure your commit messages are in the proper format. We use the [50/72 rule](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) in commit messages.
 
-  ```
-      (PUP-1234) Make the example in CONTRIBUTING imperative and concrete
+  ```text
+      Make the example in CONTRIBUTING imperative and concrete
 
       Without this patch applied the example commit message in the CONTRIBUTING
       document is not a concrete example. This is a problem because the
@@ -61,66 +56,20 @@ the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev
       based on a description rather than an example. This patch fixes the
       problem by making the example concrete and imperative.
 
-      The first line is a real-life imperative statement with a ticket number
-      from our issue tracker. The body describes the behavior without the patch,
-      why this is a problem, and how the patch fixes the problem when applied.
+      The first line is a real-life imperative statement. The body describes
+      the behavior without the patch, why this is a problem, and how the
+      patch fixes the problem when applied.
   ```
+
 * Make sure you have added the necessary tests for your changes.
 * For details on how to run tests, please see [the quickstart guide](https://github.com/puppetlabs/puppet/blob/main/docs/quickstart.md)
-
-## Writing Translatable Code
-
-We use [gettext tooling](https://github.com/puppetlabs/gettext-setup-gem) to
-extract user-facing strings and pull in translations based on the user's locale
-at runtime. In order for this tooling to work, all user-facing strings must be
-wrapped in the `_()` translation function, so they can be extracted into files
-for the translators.
-
-When adding user-facing strings to your work, follow these guidelines:
-
-* Use full sentences. Strings built up out of concatenated bits are hard to translate.
-* Use string formatting instead of interpolation. Use the hash format and give good names to the placeholder values that can be used by translators to understand the meaning of the formatted values.
-  For example: `_('Creating new user %{name}.') % { name: user.name }`
-* Use `n_()` for pluralization. (see gettext gem docs linked above for details)
-
-It is the responsibility of contributors and code reviewers to ensure that all
-user-facing strings are marked in new PRs before merging.
-
-## Making Trivial Changes
-
-For changes of a trivial nature, like a small typo fix, it is not always necessary to create a new
-ticket in Jira. In this case, it is appropriate to start the first line of a
-commit with one of  `(docs)`, `(maint)`, or `(packaging)` instead of a ticket
-number.
-
-If a Jira ticket exists for the documentation commit, you can include it
-after the `(docs)` token.
-
-```
-    (docs)(DOCUMENT-000) Add docs commit example to CONTRIBUTING
-
-    There is no example for contributing a documentation commit
-    to the Puppet repository. This is a problem because the contributor
-    is left to assume how a commit of this nature may appear.
-
-    The first line is a real-life imperative statement with '(docs)' in
-    place of what would have been the PUP project ticket number in a
-    non-documentation related commit. The body describes the nature of
-    the new documentation or comments added.
-```
-
-For commits that address trivial repository maintenance tasks or packaging
-issues, start the first line of the commit with `(maint)` or `(packaging)`,
-respectively.
 
 ## Submitting Changes
 
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
-    * Sign the CLA when prompted to via a PR comment.
-* Update your Jira ticket to mark that you have submitted code and are ready
-  for it to be reviewed (Status: Ready for Merge).
-  * Include a link to the pull request in the ticket.
+  * Sign the CLA when prompted to via a PR comment.
+* If a GitHub Issues exists [link to it](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to indicate that your PR addresses this issue.
 * After feedback has been given we expect responses within two weeks. After two
   weeks we may close the pull request if it isn't showing any activity.
 
@@ -139,10 +88,10 @@ of its discovery, the commit(s) responsible _may_ be reverted, at the
 discretion of the committer and Puppet maintainers. This action would be taken
 to help maintain passing states in our testing pipelines.
 
-The original contributor will be notified of the revert in the Jira ticket
-associated with the change. A reference to the test(s) and operating system(s)
-that failed as a result of the code change will also be added to the Jira
-ticket. This test(s) should be used to check future submissions of the code to
+The original contributor will be notified of the revert in a comment the PR or
+issue associated with the change. A reference to the test(s) and operating
+system(s) that failed as a result of the code change will also be added to the
+comment. This test(s) should be used to check future submissions of the code to
 ensure the issue has been resolved.
 
 ### Summary
@@ -153,7 +102,6 @@ ensure the issue has been resolved.
 ## Additional Resources
 
 * [Puppet community guidelines](https://puppet.com/community/community-guidelines)
-* [Bug tracker (Jira)](https://tickets.puppetlabs.com)
 * [Contributor License Agreement](https://puppet.com/community/contributor-license-agreement)
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
