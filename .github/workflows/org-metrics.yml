@@ -9,6 +9,7 @@ jobs:
       name: production
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
