@@ -15,3 +15,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: puppetlabs
           filename: profile/github-metrics.svg
+          output_action: pull-request-merge
