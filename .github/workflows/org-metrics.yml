@@ -16,3 +16,7 @@ jobs:
           user: puppetlabs
           filename: profile/github-metrics.svg
           output_action: pull-request-merge
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed/tag/puppet
