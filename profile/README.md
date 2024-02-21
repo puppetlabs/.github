@@ -2,6 +2,8 @@
 
 ![Puppet folk having a grand time at Portland's annual Pride parade.](https://raw.githubusercontent.com/puppetlabs/.github/main/profile/Community-Marquee-1792x768.png)
 
+<img align="right" src="https://raw.githubusercontent.com/puppetlabs/.github/main/profile/github-metrics.svg" alt="Metrics" width="400">
+
 At Puppet, open source software is in our DNA. From the earliest days of Facter to the latest version of Bolt, we’ve always been firm believers in the power of open source. We have a supportive, active community of thousands of people just like you who are making Puppet better — and making IT a better place to work.
 
 
@@ -16,6 +18,7 @@ You can get involved in the [Puppet community](https://puppet.com/community/) by
 - 🎙 https://dev.to/puppet
 - 🐘 https://fosstodon.org/@puppet
 - 👩‍💻 https://github.com/puppetlabs/community/discussions
+- 📰 https://dev.to/feed/tag/puppet
 
 Don't forget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
 
@@ -43,3 +46,6 @@ Some products, like Puppet Enterprise itself, are developed internally. These no
 ### 💻 Wanna come work with us?
 
 Check out our 📜 [job listings](https://www.perforce.com/careers) and see what strikes your fancy.
+
+
+
