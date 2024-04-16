@@ -42,6 +42,7 @@ Some products, like Puppet Enterprise itself, are developed internally. These no
   * [Puppet Forge](https://github.com/puppetlabs/forge_issues)
   * [Puppet Enterprise](https://github.com/puppetlabs/puppet-enterprise_issues)
   * [CEM Modules](https://github.com/puppetlabs/cem_issues)
+  * [Puppet Documentation](https://github.com/puppetlabs/puppet-docs)
 
 ### 💻 Wanna come work with us?
 
