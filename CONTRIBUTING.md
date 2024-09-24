@@ -43,7 +43,24 @@ the [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev
   * To quickly create a topic branch based on the default branch, run `git
     checkout -b fix/main/my_contribution main` (or `master` for older repos).
     Please avoid working directly on the default branch.
-* Make commits of logical and atomic units.
+* Make commits of atomic units.
+  * Your commit message should clearly describe how the behavior is changing and why.
+  * Commit messages that say "fixes bug" or are empty will be rejected.
+  * If code changes cause tests to fail, then the tests should be updated in the
+    same commit as the code changes.
+  * Squash intermediate commits.
+  * Do not create merge commits in your pull request. Instead rebase your pull
+    request. For example, if your feature branch tracks `upstream/main`, then
+    run `git rebase $(git merge-base HEAD upstream/main) --onto upstream/main`
+    and force push to your remote `git push --force origin HEAD`.
+* Make commits of logical units.
+  * Significant whitespace-only changes should be made in a single commit, not
+    comingled with non-whitespace changes.
+  * For significant changes, break down your work in separate commits to make it
+    easier to review.
+  * If your pull request contains multiple commits, then tests should pass at each
+    stage. To confirm, assuming your feature branch tracks `upstream/main`, then run
+    `git rebase -i $(git merge-base HEAD upstream/main) --exec 'bundle exec rake <task>'`
 * Check for unnecessary whitespace with `git diff --check` before committing.
 * Make sure your commit messages are in the proper format. We use the [50/72 rule](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) in commit messages.
 
