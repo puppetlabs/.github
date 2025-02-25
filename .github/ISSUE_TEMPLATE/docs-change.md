@@ -7,4 +7,4 @@ assignees: ''
 ---
 
 ## Describe the Change You Would Like
-A clear and concise description of what you would like changed.
+A concise description of what you would like changed.
