@@ -11,7 +11,7 @@ At Puppet, open source software is in our DNA. From the earliest days of Facter 
 
 You can get involved in the [Puppet community](https://puppet.com/community/) by connecting at events, getting or giving help in any of our many channels, sharing modules on the Forge, contributing code, docs, or any of your valuable insights--and many other ways, too! However you decide to jump in, we know you’ll learn a lot and enjoy meeting the smart, friendly people who make up the Puppet community. Maybe you'll even fall in with our good friends at [🦊 Vox Pupuli](https://voxpupuli.org)!
 
-- 💬 https://slack.puppet.com
+- 💬 https://puppetcommunity.slack.com
 - 🎫 https://tickets.puppet.com
 - 🛠️ https://forge.puppet.com
 - 🦊 https://voxpupuli.org
