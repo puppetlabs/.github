@@ -123,5 +123,4 @@ ensure the issue has been resolved.
 * [General GitHub documentation](https://help.github.com/)
 * [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
 * [Puppet Community Slack](https://slack.puppet.com)
-* #puppet-dev IRC channel on freenode.org ([Archive](https://botbot.me/freenode/puppet-dev/))
 * [puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev)
