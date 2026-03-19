@@ -21,7 +21,7 @@ You can get involved in the [Puppet community](https://puppet.com/community/) by
 - 🐘 [Follow on Social](https://fosstodon.org/@puppet)
 
 
-Don't forget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
+Don't forget that all participation is governed by our [Code of conduct](https://www.puppet.com/community/community-guidelines).
 
 ### 🎁 Contributing to the ecosystem
 
