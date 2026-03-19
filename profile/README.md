@@ -9,15 +9,17 @@ At Puppet, open source software is in our DNA. From the earliest days of Facter 
 
 ### 🎪 An interconnected community
 
-You can get involved in the [Puppet community](https://puppet.com/community/) by connecting at events, getting or giving help in any of our many channels, sharing modules on the Forge, contributing code, docs, or any of your valuable insights--and many other ways, too! However you decide to jump in, we know you’ll learn a lot and enjoy meeting the smart, friendly people who make up the Puppet community. Maybe you'll even fall in with our good friends at [🦊 Vox Pupuli](https://voxpupuli.org)!
+You can get involved in the [Puppet community](https://puppet.com/community/) by connecting at events, getting or giving help in any of our many channels, sharing modules on the Forge, contributing code to puppetlabs modules, or any of your valuable insights--and many other ways, too! However you decide to jump in, we know you’ll learn a lot and enjoy meeting the smart, friendly people who make up the Puppet community.
 
-- 💬 https://puppetcommunity.slack.com
-- 🎫 https://tickets.puppet.com
-- 🛠️ https://forge.puppet.com
-- 🎙 https://dev.to/puppet
-- 🐘 https://fosstodon.org/@puppet
-- 👩‍💻 https://github.com/puppetlabs/community/discussions
-- 📰 https://dev.to/feed/tag/puppet
+- 💬 [Chat on Slack](https://slack.puppet.com)
+- 🎫 [Submit Support Tickets:](https://portal.perforce.com)
+- 👩‍💻 [Customer Forums](https://portal.perforce.com/s/group/0F9PA000000085d0AA/puppet-product-discussion)
+- 🗣️ [Ask on Reddit](https://www.reddit.com/r/Puppet/)
+- 🛠️ [Find and Share Modules on the Forge](https://forge.puppet.com)
+- 🎙 [User News and Tutorials](https://dev.to/puppet)
+- 📰 [Puppet RSS Feed from dev.to](https://dev.to/feed/tag/puppet)
+- 🐘 [Follow on Social](https://fosstodon.org/@puppet)
+
 
 Don't forget that all participation is governed by our [Code of conduct](https://pup.pt/conduct).
 
