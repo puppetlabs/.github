@@ -14,7 +14,6 @@ You can get involved in the [Puppet community](https://puppet.com/community/) by
 - 💬 https://puppetcommunity.slack.com
 - 🎫 https://tickets.puppet.com
 - 🛠️ https://forge.puppet.com
-- 🦊 https://voxpupuli.org
 - 🎙 https://dev.to/puppet
 - 🐘 https://fosstodon.org/@puppet
 - 👩‍💻 https://github.com/puppetlabs/community/discussions
