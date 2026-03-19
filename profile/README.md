@@ -4,8 +4,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/puppetlabs/.github/main/profile/github-metrics.svg" alt="Metrics" width="400">
 
-At Puppet, open source software is in our DNA. From the earliest days of Facter to the latest version of Bolt, we’ve always been firm believers in the power of open source. We have a supportive, active community of thousands of people just like you who are making Puppet better — and making IT a better place to work.
-
+Perforce Puppet empowers users to automate and manage IT infrastructure, making complex systems more secure and reliable everywhere your infrastructure lives. Trusted by over forty thousand users worldwide, Puppet’s open source and commercial tools help you strengthen security, stay compliant, and simplify day-to-day operations.
 
 ### 🎪 An interconnected community
 
