@@ -7,10 +7,10 @@ assignees: ''
 ---
 
 ## Describe the Bug
-A clear and concise description of what the bug is.
+A concise description of what the bug is.
 
 ## Expected Behavior
-A clear and concise description of what you expected to happen.
+A concise description of what you expected to happen.
 
 ## Steps to Reproduce
 Steps to reproduce the behavior:
@@ -18,8 +18,8 @@ Steps to reproduce the behavior:
 2. Click on '....'
 
 ## Environment
- - Version [e.g. 1.27.0]
- - Platform [e.g. Ubuntu 18.04]
+ - Product Version [example: 1.27.0]
+ - Platform [Linux Distribution & Version/MacOS version/Windows Version]
 
 ## Additional Context
 Add any other context about the problem here.
